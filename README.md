@@ -17,7 +17,8 @@ This project explores clustering techniques on the famous Iris dataset. It inclu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MUHSINA25/iris-clustering.git
+   git clone https://github.com/MUHSINA25/Iris-clustering.git
+
 
 #### The Iris Dataset
 This data sets consists of 3 different types of irises’ (Setosa, Versicolour, and Virginica) petal and sepal length, stored in a 150x4 numpy.ndarray
