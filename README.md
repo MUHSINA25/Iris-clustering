@@ -41,7 +41,7 @@ We then proceeded to perform K-means Clustering which will create different
 clusters to group similar spending activity based on their age and annual income. KMeans Clustering selects random values from the data and forms clusters assigned. The
 closest values from the centre of each cluster were taken to update the cluster and
 reshape the plot (just like k-NN). The closest values are based on Euclidean Distance.
-### Hierarchical clustering 
+#### Hierarchical clustering 
 Hierarchial clustring is a method of clustering that builds a hierarchy of clusters. It starts with each data point as its own cluster and merges the most similar clusters step by step until all data points are combined into one cluster. This process can be visualized using a dendrogram, which shows the order and distances of merges, helping to understand the data's structure and determine the number of clusters.
 
 ##
