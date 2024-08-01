@@ -1,4 +1,6 @@
 # clustering-techniques-to-a-real-world-dataset
+## This project explores clustering techniques on the famous Iris dataset. It includes data preprocessing, outlier removal, and the implementation of KMeans and Hierarchical Clustering algorithms. Visualizations such as dendrograms, 3D scatter plots, and box plots are used to illustrate the results. The project also displays images of the three Iris flower species: Setosa, Versicolor, and Virginica.
+
 #### The Iris Dataset
 This data sets consists of 3 different types of irises’ (Setosa, Versicolour, and Virginica) petal and sepal length, stored in a 150x4 numpy.ndarray
 
